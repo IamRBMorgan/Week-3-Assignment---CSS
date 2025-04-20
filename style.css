@@ -1,0 +1,62 @@
+/* Element Selector: Styling all h2 elements */
+h2 {
+    color: #2c3e50;
+    font-family: 'Arial', sans-serif;
+    font-size: 24px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+/* Class Selector: Styling elements with class="main-title" */
+.main-title {
+    font-family: 'Georgia', serif;
+    color: #ffffff;
+    background-color: #3498db;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+    font-size: 36px;
+}
+
+/* ID Selector: Styling element with id="intro" */
+#intro {
+    background-color: #f8f9fa;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Styling the image with class="styled-image" */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 3px solid #3498db;
+    border-radius: 10px;
+    margin: 15px 0;
+    padding: 5px;
+    display: block;
+}
+
+/* Styling the image caption */
+.image-caption {
+    font-style: italic;
+    color: #666;
+    font-family: 'Arial', sans-serif;
+    margin-top: 10px;
+}
+
+/* General body styling for better readability */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+/* Styling paragraphs for consistency */
+p {
+    color: #333;
+    margin: 10px 0;
+}
